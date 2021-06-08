@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesse Lawrence!
-- 👀 I’m interested in Software Development/Engineering
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Information Systems and Business Administration at Colorado Christian University
 - 💞️ I’m looking to collaborate on all types of projects to build my knowledge on Python, C#, and more!
 - 📫 You can reach me at my email at jesselawrence10@gmail.com
